@@ -1,10 +1,8 @@
-#include <cmath>
-#include <cstdio>
-#include <vector>
 #include <iostream>
-#include <algorithm>
+
 using namespace std;
 
+//https://www.hackerrank.com/challenges/cpp-input-and-output/problem
 
 int main() {
     int a, b, c;
