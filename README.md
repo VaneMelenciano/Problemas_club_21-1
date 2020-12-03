@@ -6,3 +6,8 @@
 
 →   [Semana 1](https://github.com/VaneMelenciano/Problemas_club_21-1/tree/main/Basicos/Semana1)
 
+→   [Semana 2](...)
+
+→   [Semana 3](https://github.com/VaneMelenciano/Problemas_club_21-1/tree/main/Basicos/Semana3)
+
+
