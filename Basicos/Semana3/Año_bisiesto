@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+//https://omegaup.com/arena/problem/Ano-Bisiesto/#problems
+
+bool bisiesto(int a){
+    if(a%4!=0 || (a%100==0 && a%400!=0)){
+        return false;
+    }
+    else{
+        return true;
+    }
+}
+int main()
+{
+    int anio;
+    cin >> anio;
+    if(bisiesto(anio)==true){
+        cout << "BISIESTO";
+    }
+    else{
+        cout << "NO BISIESTO";
+    }
+    return 0;
+}
